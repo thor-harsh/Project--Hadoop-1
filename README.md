@@ -26,6 +26,9 @@
  **Speed**: With parallel processing and minimal data movement, Hadoop offers fast processing of massive amounts of data.<br></br>
  **Simple**: Developers can write code in a choice of languages, including Java, C++ and Python.<br></br>
 
- 
+ **Important Note: Go through the dataset before going to the code.**
 
 </table>
+
+
+**So what are you waiting for..? Jump to the code to get started and learn to make this amazing project using MapReduce. As usual for any doubt or query see you in pull request section 😁😂. Thanks Again!**
