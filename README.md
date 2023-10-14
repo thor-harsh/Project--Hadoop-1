@@ -26,7 +26,7 @@
  **Speed**: With parallel processing and minimal data movement, Hadoop offers fast processing of massive amounts of data.<br></br>
  **Simple**: Developers can write code in a choice of languages, including Java, C++ and Python.<br></br>
 
- **Important Note: Go through the dataset before going to the code.**
+ **Important-Note: Go through the dataset before going to the code.**
 
 </table>
 
