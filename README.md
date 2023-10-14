@@ -2,7 +2,10 @@
 
 <table>
 
-  **In this project we use MapReduce which is a heart of hadoop and coded it using python to find the count the total ratings of each movie id.**
+  **In this project we use MapReduce which is a heart of hadoop and coded it using python to find the count the total ratings of each movie id from u.data dataset**.<br>
+  **This dataset contains 4 columns:(user-id),(movie-id),(ratings),(timestamp)**
+  
+  
 
   MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster.
   As the processing component, MapReduce is the heart of Apache Hadoop.
@@ -17,5 +20,7 @@
  **Flexibility**: Hadoop enables easier access to multiple sources of data and multiple types of data.<br></br>
  **Speed**: With parallel processing and minimal data movement, Hadoop offers fast processing of massive amounts of data.<br></br>
  **Simple**: Developers can write code in a choice of languages, including Java, C++ and Python.<br></br>
+
+ 
 
 </table>
