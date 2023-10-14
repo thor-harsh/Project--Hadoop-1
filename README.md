@@ -3,7 +3,7 @@
 <table>
 
  **In this project we use MapReduce which is a heart of hadoop and coded it using python to find the count the total ratings of each movie id from u.data dataset**.<br></br>
-  **This dataset contains 4 columns:<br>(user-id),(movie-id),(ratings),(timestamp)**
+  **This dataset contains 4 columns:<br></br>(user-id),(movie-id),(ratings),(timestamp)**
   
   
 
