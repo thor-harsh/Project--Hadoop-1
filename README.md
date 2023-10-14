@@ -11,4 +11,11 @@
 
   The reduce job takes the output from a map as input and combines those data tuples into a smaller set of tuples. As the sequence of the name MapReduce implies, the reduce job is always performed after the map job.<br></br>
 
+  **MapReduce programming offers several benefits to help you gain valuable insights from your big data:**
+
+ Scalability. Businesses can process petabytes of data stored in the Hadoop Distributed File System (HDFS).<br></br>
+Flexibility. Hadoop enables easier access to multiple sources of data and multiple types of data.
+Speed. With parallel processing and minimal data movement, Hadoop offers fast processing of massive amounts of data.
+Simple. Developers can write code in a choice of languages, including Java, C++ and Python.
+
 </table>
