@@ -4,10 +4,10 @@
 
  **In this project we use MapReduce which is a heart of hadoop and coded it using python to find the count the total ratings of each movie id from u.data dataset**.<br></br>
   **This dataset contains 4 columns:<br></br>
-  (UserId): The user id of person who rated the movie<br>
-  (Movie-Id): The movie id of movie which users rated<br>
-  (Ratings): The ratings which the user gave to the given movie<br>
-  (Timestamp): The time at which the user rated the given movie<br>
+  **(UserId):** The user id of person who rated the movie<br>
+  **(Movie-Id):** The movie id of movie which users rated<br>
+  **(Ratings):** The ratings which the user gave to the given movie<br>
+  **(Timestamp):** The time at which the user rated the given movie<br>
   
   
 
